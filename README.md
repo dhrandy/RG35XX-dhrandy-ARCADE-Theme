@@ -31,6 +31,7 @@ Change the title label to whatever you'd like to be displayed in the upper left 
 - Changed the Arcade icon to Console with a different image.
 - Changed Console description to Gaming.
 - Changed Recent overlay.
+- Changed title to dhrandy Gaming.
 
 ## Original Theme
 You can download the original theme below.  It was created by Coruptn-Gaming.
