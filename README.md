@@ -1,7 +1,7 @@
 # RG35XX dhrandy-ARCADE Theme
 This is a them I modified for the Anbernic RG35XX.  
 
-![PXL_20230305_180527113](https://user-images.githubusercontent.com/6290176/222983881-be38d2f8-56df-4c75-b7d9-3a7f8c3a547d.jpg)
+![PXL_20230305_180527113](https://user-images.githubusercontent.com/6290176/222983926-bf8f2057-4fee-47ff-afa8-c09d446b3264.jpg)
 
 ## Changelog
 - Changed the buttons at the bottom of the screen.
