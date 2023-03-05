@@ -9,7 +9,7 @@ This is a them I modified for the Anbernic RG35XX based on an arcade. I don't ta
 3. Copy the downloaded skin folder over the existing skin folder.
 4. Enjoy your new theme and feel free to donate to my Patreon at www.patreon.com/dhrandy.  If you want a one time donation, signup for 1 month and cancel.
 
-If you have artwork for your games be sure to update the following in the settings.
+If you have artwork for your games be sure to update the following in the settings.jason (Edit with Notepad)
 
 For Artwork:
 "text-margin": 352,
