@@ -9,13 +9,15 @@ This is a them I modified for the Anbernic RG35XX based on an arcade. I don't ta
 3. Copy the downloaded skin folder over the existing skin folder.
 4. Enjoy your new theme and feel free to donate to my Patreon at www.patreon.com/dhrandy.  If you want a one time donation, signup for 1 month and cancel.
 
-If you have artwork for your games be sure to update the following in the settings.jason (Edit with Notepad)
+If you have artwork for your games be sure to update the following in the settings.json (Edit with Notepad)
 
 For Artwork:
 "text-margin": 352,
 
 No Artwork:
 "text-margin": 24,
+
+Change the title label to whatever you'd like to be displayed in the upper left corner on the main screen in the settings.json. "title-label": "dhrandy Gaming"
 
 ## Changelog
 3/5/23 - Works with Garlic OS 1.1.9
