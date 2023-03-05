@@ -11,10 +11,10 @@ This is a them I modified for the Anbernic RG35XX based on an arcade. I don't ta
 
 If you have artwork for your games be sure to update the following in the settings.
 
-For Artwork
+For Artwork:
 "text-margin": 352,
 
-No Artwork
+No Artwork:
 "text-margin": 24,
 
 ## Changelog
