@@ -42,5 +42,5 @@ https://github.com/Coruptn-Gaming/RG35XX-Themes
 ## Notes
 By downloading this file you take all responsibility for messing up your Anbernic RG35XX.  I am not held responsible. I can't guarantee this works with all versions of Garlic OS. Be sure to backup your current them in the skin folder!  You don't need the CFW folder on the second SD card.
 
-
-
+## Useful Links
+Garlic OS - https://www.patreon.com/posts/garlicos-for-76561333
