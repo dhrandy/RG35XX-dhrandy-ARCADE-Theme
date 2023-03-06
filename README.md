@@ -4,7 +4,7 @@ This is a them I modified for the Anbernic RG35XX based on an arcade. I don't ta
 ![PXL_20230305_180527113](https://user-images.githubusercontent.com/6290176/222983926-bf8f2057-4fee-47ff-afa8-c09d446b3264.jpg)
 
 ## Installation - *This only works with Garlic OS
-1. Open your CFW folder on your RG35XX sd card. (It's the same SD card that has your Garlic OS installation).
+1. Open your CFW folder on your main RG35XX sd card. (It's the same SD card that has your Garlic OS installation).
 2. Make a backup copy of your current skin folder.  If this theme doesn't work you can revert back.
 3. Copy the downloaded skin folder over the existing skin folder.
 4. Enjoy your new theme and feel free to donate to my Patreon at www.patreon.com/dhrandy.  If you want a one time donation, signup for 1 month and cancel.
@@ -39,7 +39,7 @@ You can download the original theme below.  It was created by Coruptn-Gaming.
 https://github.com/Coruptn-Gaming/RG35XX-Themes
 
 ## Notes
-By downloading this file you take all responsibility for messing up your Anbernic RG35XX.  I am not held responsible. I can't guarantee this works with all versions of Garlic OS. Be sure to backup your current them in the skin folder!
+By downloading this file you take all responsibility for messing up your Anbernic RG35XX.  I am not held responsible. I can't guarantee this works with all versions of Garlic OS. Be sure to backup your current them in the skin folder!  You don't need the CFW folder on the second SD card.
 
 
 
