@@ -21,7 +21,7 @@ No Artwork:
 Change the title label to whatever you'd like to be displayed in the upper left corner on the main screen in the settings.json. "title-label": "dhrandy Gaming"
 
 ## Changelog
-3/5/23 - Works with Garlic OS 1.1.9
+3/6/23 - Works with Garlic OS 1.1.9
 - Changed the buttons at the bottom of the screen.
 - Changed the wallpaper.
 - Changed main screen game selection icon.
@@ -33,6 +33,8 @@ Change the title label to whatever you'd like to be displayed in the upper left 
 - Changed Console description to Gaming.
 - Changed Recent overlay.
 - Changed title to dhrandy Gaming.
+- Changed Favorite icon.
+- Changed Recent icons.
 
 ## Original Theme
 You can download the original theme below.  It was created by Coruptn-Gaming.
@@ -43,4 +45,7 @@ https://github.com/Coruptn-Gaming/RG35XX-Themes
 By downloading this file you take all responsibility for messing up your Anbernic RG35XX.  I am not held responsible. I can't guarantee this works with all versions of Garlic OS. Be sure to backup your current them in the skin folder!  You don't need the CFW folder on the second SD card.
 
 ## Useful Links
+RG35XX Starter Guide (Has how to install Garlic OS and add artwork) - https://retrogamecorps.com/2023/01/03/anbernic-rg35xx-starter-guide/
 Garlic OS - https://www.patreon.com/posts/garlicos-for-76561333
+RG35XX Sub Reddit - https://www.reddit.com/r/RG35XX/
+RG35XX Themes and More - https://www.rg35xx.com/
