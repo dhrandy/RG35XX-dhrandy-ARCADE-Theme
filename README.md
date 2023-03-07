@@ -46,6 +46,9 @@ By downloading this file you take all responsibility for messing up your Anberni
 
 ## Useful Links
 RG35XX Starter Guide (Has how to install Garlic OS and add artwork) - https://retrogamecorps.com/2023/01/03/anbernic-rg35xx-starter-guide/
+
 Garlic OS - https://www.patreon.com/posts/garlicos-for-76561333
+
 RG35XX Sub Reddit - https://www.reddit.com/r/RG35XX/
+
 RG35XX Themes and More - https://www.rg35xx.com/
