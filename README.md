@@ -44,7 +44,7 @@ https://github.com/Coruptn-Gaming/RG35XX-Themes
 ## Notes
 By downloading this file you take all responsibility for messing up your Anbernic RG35XX.  I am not held responsible. I can't guarantee this works with all versions of Garlic OS. Be sure to backup your current them in the skin folder!  You don't need the CFW folder on the second SD card.
 
-Garlic OS screeneshots are saved in: CFW\retroarch\.retroarch\screenshots
+Garlic OS screenshots are saved in: CFW\retroarch\.retroarch\screenshots
 
 ## Useful Links
 RG35XX Starter Guide (Has how to install Garlic OS and add artwork) - https://retrogamecorps.com/2023/01/03/anbernic-rg35xx-starter-guide/
