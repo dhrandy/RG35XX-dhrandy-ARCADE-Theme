@@ -35,6 +35,7 @@ Change the title label to whatever you'd like to be displayed in the upper left 
 - Changed title to dhrandy Gaming.
 - Changed Favorite icon.
 - Changed Recent icons.
+- Change dhrandy Gaming to Arcade
 
 ## Original Theme
 You can download the original theme below.  It was created by Coruptn-Gaming.
