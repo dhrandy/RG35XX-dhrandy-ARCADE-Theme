@@ -18,7 +18,7 @@ For Artwork:
 No Artwork:
 "text-margin": 24,
 
-Change the title label to whatever you'd like to be displayed in the upper left corner on the main screen in the settings.json. "title-label": "dhrandy Gaming"
+Change the title label to whatever you'd like to be displayed in the upper left corner on the main screen in the settings.json. "title-label": "Arcade"
 
 ## Changelog
 3/6/23 - Works with Garlic OS 1.1.9
