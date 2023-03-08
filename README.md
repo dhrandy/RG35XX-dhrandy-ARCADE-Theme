@@ -25,7 +25,7 @@ Change the title label to whatever you'd like to be displayed in the upper left 
 - Changed the buttons at the bottom of the screen.
 - Changed the wallpaper.
 - Changed main screen game selection icon.
-- Changed the selection in the games menu to be a little more noticable.
+- Changed the selection in the games menu to be a little more noticeable.
 - Change the black button selection to a neon arrow.
 - Changed the Onion icon in the upper left hand corner.
 - Changed Recent to History.
