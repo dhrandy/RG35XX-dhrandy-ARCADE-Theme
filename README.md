@@ -4,11 +4,14 @@ This is a them I modified for the Anbernic RG35XX based on an arcade. I don't ta
 ![PXL_20230308_220613376](https://user-images.githubusercontent.com/6290176/223862077-0eb55cf3-29fc-4112-9491-a27a4c9cc4f8.jpg)
 
 ## Installation - *This only works with Garlic OS
+*Only Works with Garlic OS 1.2.3
 1. Download this theme.  To do that click on Code in the upper right corner and select Download Zip.
 2. Open your CFW folder on your main RG35XX sd card. (It's the same SD card that has your Garlic OS installation).
 3. Make a backup copy of your current skin folder.  If this theme doesn't work you can revert back.
-4. Copy the downloaded skin folder over the existing skin folder.
-5. Enjoy your new theme and feel free to donate to my Patreon at www.patreon.com/dhrandy.  If you want a one time donation, signup for 1 month and cancel.
+4. Copy the downloaded skin folder over the existing skin folder. Agree to overwrite.
+5. Copy lang folder over existing lang folder. Agree to overwite.
+6. Copy font folder over existing font folder. Agree to overwrite.
+7. Enjoy your new theme and feel free to donate to my Patreon at www.patreon.com/dhrandy.  If you want a one time donation, signup for 1 month and cancel.
 
 If you have artwork for your games be sure to update the following in the settings.json (Edit with Notepad)
 
@@ -21,7 +24,14 @@ No Artwork:
 Change the title label to whatever you'd like to be displayed in the upper left corner on the main screen in the settings.json. "title-label": "Arcade"
 
 ## Changelog
-3/6/23 - Works with Garlic OS 1.1.9
+3/9/23 - Works with Garlic OS 1.2.3
+
+- Moved font.ttf to the font folder in CWF.
+- Updated CWF/lang/English.json to work with Garlic OS 1.2.3
+- Updated skin/settings.json file.
+- Added extra instructions to README.md
+
+- Prevously worked with Garlic OS 1.1.9
 - Changed the buttons at the bottom of the screen.
 - Changed the wallpaper.
 - Changed main screen game selection icon.
@@ -35,7 +45,8 @@ Change the title label to whatever you'd like to be displayed in the upper left 
 - Changed title to dhrandy Gaming.
 - Changed Favorite icon.
 - Changed Recent icons.
-- Change dhrandy Gaming to Arcade
+- Change dhrandy Gaming to Arcade.
+
 
 ## Original Theme
 You can download the original theme below.  It was created by Coruptn-Gaming.
