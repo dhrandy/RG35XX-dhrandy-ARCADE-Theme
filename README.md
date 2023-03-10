@@ -31,7 +31,8 @@ Change the title label to whatever you'd like to be displayed in the upper left 
 - Updated skin/settings.json file.
 - Added extra instructions to README.md
 
-- Prevously worked with Garlic OS 1.1.9
+ Prevously worked with Garlic OS 1.1.9
+ 
 - Changed the buttons at the bottom of the screen.
 - Changed the wallpaper.
 - Changed main screen game selection icon.
