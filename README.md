@@ -3,6 +3,9 @@ This is a theme I modified for the Anbernic RG35XX based on an arcade. I don't t
 
 ![PXL_20230308_220613376](https://user-images.githubusercontent.com/6290176/223862077-0eb55cf3-29fc-4112-9491-a27a4c9cc4f8.jpg)
 
+Click the link below to see all my themes.
+https://github.com/dhrandy/dhrandy-RG35XX-Themes
+
 ## Installation - *This only works with Garlic OS
 *Only Works with Garlic OS 1.2.3
 1. Download this theme.  To do that click on Code in the upper right corner and select Download Zip.
