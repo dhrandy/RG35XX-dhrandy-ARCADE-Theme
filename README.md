@@ -16,18 +16,29 @@ https://github.com/dhrandy/dhrandy-RG35XX-Themes
 6. Copy font folder over existing font folder. Agree to overwrite.
 7. Enjoy your new theme and feel free to donate to my Patreon at www.patreon.com/dhrandy.  If you want a one time donation, signup for 1 month and cancel.
 
-If you have artwork for your games be sure to update the following in the settings.json (Edit with Notepad)
+Change the title label to whatever you'd like to be displayed in the upper left corner on the main screen in the settings.json. "title-label": "Arcade"
+
+## Boxart Option
+
+If you are using boxart/artwork you can use options 1 or 2 to get the text to align correctly.  You don't need to do both.
+
+1. Move the file boxart in optional/skin/settings.json to the skin folder and overwrite the original.
+
+2. Update the following in the settings.json in the skin folder (Edit with Notepad):
 
 For Artwork:
+"text-alignment": "left",
 "text-margin": 352,
 
 No Artwork:
+"text-alignment": "center",
 "text-margin": 24,
 
-Change the title label to whatever you'd like to be displayed in the upper left corner on the main screen in the settings.json. "title-label": "Arcade"
-
 ## Changelog
-3/9/23 - Works with Garlic OS 1.2.3
+3/11/23 - Works with Garlic OS 1.2.3
+- Added boxart optional/skin/settings.json file so it's easier to just copy and paste if you are using boxart/artwork.
+
+3/9/23 
 
 - Moved font.ttf to the font folder in CWF.
 - Updated CWF/lang/English.json to work with Garlic OS 1.2.3
