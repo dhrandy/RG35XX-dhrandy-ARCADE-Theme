@@ -22,7 +22,7 @@ Change the title label to whatever you'd like to be displayed in the upper left 
 
 If you are using boxart/artwork you can use options 1 or 2 to get the text to align correctly.  You don't need to do both.
 
-1. Move the file boxart in optional/skin/settings.json to the skin folder and overwrite the original.
+1. Move the file in boxart optional/skin/settings.json to the skin folder and overwrite the original.
 
 2. Update the following in the settings.json in the skin folder (Edit with Notepad):
 
@@ -72,6 +72,8 @@ https://github.com/Coruptn-Gaming/RG35XX-Themes
 By downloading this file you take all responsibility for messing up your Anbernic RG35XX.  I am not held responsible. I can't guarantee this works with all versions of Garlic OS. Be sure to backup your current them in the skin folder!  You don't need the CFW folder on the second SD card.
 
 Garlic OS screenshots are saved in: CFW\retroarch\.retroarch\screenshots
+
+If you are using a mobile browser switch to desktop mode to see the Code/Download ZIP option.
 
 ## Useful Links
 RG35XX Starter Guide (Has how to install Garlic OS and add artwork) - https://retrogamecorps.com/2023/01/03/anbernic-rg35xx-starter-guide/
