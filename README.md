@@ -7,7 +7,7 @@ https://github.com/dhrandy/dhrandy-RG35XX-Themes
 ![ezgif-1-e632113aa7-2](https://user-images.githubusercontent.com/6290176/224461258-2a9b36c9-cce7-4e2e-a554-20d992dfda60.gif)
 
 ## Installation - *This only works with Garlic OS
-*Only Works with Garlic OS 1.2.3
+*Only Works with Garlic OS 1.2.9 or lower
 1. Download this theme, click on the most recent version in the Releases section and download the zip file.
 2. Open your CFW folder on your main RG35XX sd card. (It's the same SD card that has your Garlic OS installation).
 3. Make a backup copy of your current skin folder.  If this theme doesn't work you can revert back.
@@ -35,7 +35,7 @@ No Artwork:
 "text-margin": 24,
 
 ## Changelog
-3/11/23 - Works with Garlic OS 1.2.4
+3/11/23 - Works with Garlic OS 1.2.9
 - Added boxart optional/skin/settings.json file so it's easier to just copy and paste if you are using boxart/artwork.
 
 3/9/23 
